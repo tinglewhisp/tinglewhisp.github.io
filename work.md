@@ -3,18 +3,18 @@ layout: work
 title: Work
 slug: /work
 items:
-  - title: My Interest 1
+  - title: UX Researcher for HEAL
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
+    description: Applying UX principles to file management, including interview transcripts, survey data, excel spreadsheets, and other files associated with the management of the grant. Conducting interviews with study participants. Contributing to research synthesis by transcribing and coding qualitative interviews. Conducting interviews with other project stakeholders
+  - title: Master’s student at University of North Carolina at Greensboro
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    description: Pursuing a Master’s in Library and Information Science with a focus on applying UX principles to digital collections and information architecture
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+I’m a Researcher and Writer who is interested in the expanding information accessibility through UX Design Strategy.
 <br />
 <br />
